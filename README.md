@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=🔥%20heedd%20🌌&fontSize=70)  
 
+# 👋 About me
+![heedd's github stats](https://github-readme-stats.vercel.app/api?username=heedd&show_icons=true)
+![heedd's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=heedd&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+
+<br/>
+
 # 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -14,9 +20,3 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br/>
-
-# 👋 About me
-![heedd's github stats](https://github-readme-stats.vercel.app/api?username=heedd&show_icons=true)
-[![heedd's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=heedd&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/heedd)
