@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=🔥%20heedd%20🌌&fontSize=70)  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=🔥%20heedd%20🌌&fontSize=70) 
 
 # 👋 About me
 ![heedd's github stats](https://github-readme-stats.vercel.app/api?username=heedd&show_icons=true)
